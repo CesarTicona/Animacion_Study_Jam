@@ -111,11 +111,11 @@
                 android:layout_columnWeight="1"
                 android:onClick="crossfade"/>
             <Button
-                android:text="Sequential"
+                android:text="Stop"
                 android:textAllCaps="false"
                 android:layout_gravity="fill"
                 android:layout_columnWeight="1"
-                android:onClick="sequential"/>
+                android:onClick="stop"/>
         </GridLayout>
 
     </LinearLayout>
